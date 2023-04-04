@@ -41,7 +41,7 @@
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=csharp&logoColor=white"/></a>
 
 <hr/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fre&show_icons=true&locale=en" alt="aamirkhan2478" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredo509&show_icons=true&locale=en" alt="aamirkhan2478" /></p>
 <hr/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredo5098&show_icons=true&locale=en" alt="fredo509" /></p>
  
