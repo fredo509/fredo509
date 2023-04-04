@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fredo509" alt="fredo509" /></a> </p>
 
 
-<a href="https://fredo509.github.io/Portfolio_setup_mobile_first/" target="_blank"><p align= "left"> <img src="" /> </p></a>
+<a href="https://fredo509.github.io/Portfolio_setup_mobile_first/" target="_blank"><p align= "left"> <img src="https://img.shields.io/badge/Fredo%20St-fleur-is%20Available%20for%20Hire%20-blueviolet" /> </p></a>
 
 - 🔭 I’m currently working as **Freelancer**
 
@@ -42,7 +42,7 @@
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=csharp&logoColor=white"/></a>
 
 <hr/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredo509&show_icons=true&locale=en" alt="aamirkhan2478" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fre&show_icons=true&locale=en" alt="aamirkhan2478" /></p>
 <hr/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredo5098&show_icons=true&locale=en" alt="fredo509" /></p>
  
