@@ -43,5 +43,5 @@
 <hr/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredo509&show_icons=true&locale=en" alt="aamirkhan2478" /></p>
 <hr/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredo5098&show_icons=true&locale=en" alt="fredo509" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredo509&show_icons=true&locale=en" alt="fredo509" /></p>
  
