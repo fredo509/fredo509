@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fredo509" alt="fredo509" /></a> </p>
 
 
-<a href="https://fredo509.github.io/Portfolio_setup_mobile_first/" target="_blank"><p align= "left"> <img src="https://img.shields.io/badge/Fredo%20St-fleur-is%20Available%20for%20Hire%20-blueviolet" /> </p></a>
+<a href="https://fredo509.github.io/Portfolio_setup_mobile_first/" target="_blank"><p align= "left"> <img src="https://img.shields.io/badge/Aamir%20Khan-is%20Available%20for%20Hire%20-blueviolet" /> </p></a>
 
 - 🔭 I’m currently working as **Freelancer**
 
