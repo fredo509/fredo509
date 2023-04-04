@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredo509&label=Profile%20views&color=0e75b6&style=flat" alt="fredo509" /> </p>
 
-<a href="https://wakatime.com/@0a9d1138-ce9f-40d3-bfab-4cc846380d97"><img src="https://wakatime.com/badge/user/0a9d1138-ce9f-40d3-bfab-4cc846380d97.svg" alt="Total time coded since Sep 21 2022" /></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fredo509" alt="fredo509" /></a> </p>
 
@@ -14,7 +13,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JS, React, Sql**
 
-- 👨‍💻 All of my projects are available at [https://fredo509.github.io/Portfolio_setup_mobile_first/](https://aamirkhan2478.github.io/aamir-portfolio.github.io/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://fredo509.github.io/Portfolio_setup_mobile_first/)
 
 - 💬 Ask me about **React JS, Node JS, Express JS, MongoDB**
 
