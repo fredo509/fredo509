@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fredo St Fleur</h1>
-<h3 align="center">Full Stack Developer | React Native Developer | Looking for my next job.</h3>
+<h3 align="center">Full Stack Developer | React Native Developer | Sql | Javascript | Bootstrap  Looking for my next job.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredo509&label=Profile%20views&color=0e75b6&style=flat" alt="fredo509" /> </p>
 
